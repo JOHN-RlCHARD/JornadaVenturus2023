@@ -1,7 +1,8 @@
 # JornadaVenturus2023
 
 - [X] Atividade 1
-- [ ] Atividade 2
+- [X] Atividade 2
+- [X] Aula Operador Ternario (Exercicio e Desafio)
 - [ ] Atividade 3
 - [ ] Atividade 4
 - [ ] Atividade 5
