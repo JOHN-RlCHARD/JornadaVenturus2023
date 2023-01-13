@@ -3,7 +3,7 @@
 - [X] Atividade 1
 - [X] Atividade 2
 - [X] Aula Operador Ternario (Exercicio e Desafio)
-- [ ] Atividade 3
+- [X] Atividade 3
 - [ ] Atividade 4
 - [ ] Atividade 5
 - [ ] Atividade 6
