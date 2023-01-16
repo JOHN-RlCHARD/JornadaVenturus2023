@@ -5,7 +5,7 @@
 - [X] Aula Operador Ternario (Exercicio e Desafio)
 - [X] Slides 3
 - [X] Aula Estruturas Condicionais
-- [ ] Slides 4 (in progress...)
+- [X] Slides 4
 - [ ] Slides 5
 - [ ] Slides 6
 - [ ] Slides 7
