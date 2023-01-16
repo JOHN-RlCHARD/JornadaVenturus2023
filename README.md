@@ -1,19 +1,19 @@
 # JornadaVenturus2023
 
-- [X] Atividade 1
-- [X] Atividade 2
+- [X] Slides 1
+- [X] Slides 2
 - [X] Aula Operador Ternario (Exercicio e Desafio)
-- [X] Atividade 3
+- [X] Slides 3
 - [X] Aula Estruturas Condicionais
-- [ ] Atividade 4
-- [ ] Atividade 5
-- [ ] Atividade 6
-- [ ] Atividade 7
-- [ ] Atividade 8
-- [ ] Atividade 9
-- [ ] Atividade 10
-- [ ] Atividade 11
-- [ ] Atividade 12
-- [ ] Atividade 13
-- [ ] Atividade 14
+- [ ] Slides 4 (in progress...)
+- [ ] Slides 5
+- [ ] Slides 6
+- [ ] Slides 7
+- [ ] Slides 8
+- [ ] Slides 9
+- [ ] Slides 10
+- [ ] Slides 11
+- [ ] Slides 12
+- [ ] Slides 13
+- [ ] Slides 14
 - [ ] Projeto Final
