@@ -4,6 +4,7 @@
 - [X] Atividade 2
 - [X] Aula Operador Ternario (Exercicio e Desafio)
 - [X] Atividade 3
+- [X] Aula Estruturas Condicionais
 - [ ] Atividade 4
 - [ ] Atividade 5
 - [ ] Atividade 6
