@@ -7,7 +7,7 @@
 - [X] Aula Estruturas Condicionais
 - [X] Slides 4
 - [X] Aula Estruturas de Repeticao
-- [ ] Slides 5
+- [ ] Slides 5 (in progres...)
 - [ ] Slides 6
 - [ ] Slides 7
 - [ ] Slides 8
