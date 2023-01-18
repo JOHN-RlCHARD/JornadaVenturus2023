@@ -9,7 +9,7 @@
 - [X] Aula Estruturas de Repeticao
 - [X] Slides 5
 - [X] Aula Vetores e Matrizes
-- [ ] Slides 6 (in progress...)
+- [X] Slides 6
 - [ ] Slides 7
 - [ ] Slides 8
 - [ ] Slides 9
