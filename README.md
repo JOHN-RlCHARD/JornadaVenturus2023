@@ -10,7 +10,7 @@
 - [X] Slides 5
 - [X] Aula Vetores e Matrizes
 - [X] Slides 6
-- [ ] Slides 7
+- [X] Slides 7
 - [ ] Slides 8
 - [ ] Slides 9
 - [ ] Slides 10
