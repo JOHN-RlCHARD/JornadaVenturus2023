@@ -12,7 +12,7 @@
 - [X] Slides 6
 - [X] Slides 7
 - [X] Slides 8
-- [ ] Slides 9
+- [ ] Slides 9 (in progress...)
 - [ ] Slides 10
 - [ ] Slides 11
 - [ ] Slides 12
