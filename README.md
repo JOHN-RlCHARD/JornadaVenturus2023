@@ -1,20 +1,20 @@
 # JornadaVenturus2023
 
-- [X] Slides 1
-- [X] Slides 2
+- [X] Slides 01
+- [X] Slides 02
 - [X] Aula Operador Ternario (Exercicio e Desafio)
-- [X] Slides 3
+- [X] Slides 03
 - [X] Aula Estruturas Condicionais
-- [X] Slides 4
+- [X] Slides 04
 - [X] Aula Estruturas de Repeticao
-- [X] Slides 5
+- [X] Slides 05
 - [X] Aula Vetores e Matrizes
-- [X] Slides 6
-- [X] Slides 7
-- [X] Slides 8
-- [X] Slides 9 
+- [X] Slides 06
+- [X] Slides 07
+- [X] Slides 08
+- [X] Slides 09 
 - [X] Aula Herança
-- [ ] Slides 10
+- [X] Slides 10
 - [ ] Slides 11
 - [ ] Slides 12
 - [ ] Slides 13
