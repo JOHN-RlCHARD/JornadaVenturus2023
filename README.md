@@ -19,5 +19,5 @@
 - [X] Slides 11
 - [X] Slides 12
 - [X] Slides 13
-- [ ] Slides 14
+- [X] Slides 14
 - [ ] Projeto Final
