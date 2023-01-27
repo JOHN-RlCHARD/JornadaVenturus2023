@@ -1,4 +1,6 @@
-# JornadaVenturus2023
+# JornadaVenturus2023 
+
+#### OBS: Projeto Final está em :link:https://github.com/JOHN-RlCHARD/ChessGame
 
 - [X] Slides 01
 - [X] Slides 02
@@ -20,4 +22,5 @@
 - [X] Slides 12
 - [X] Slides 13
 - [X] Slides 14
-- [ ] Projeto Final
+
+### Status: Finalizado :white_check_mark:
